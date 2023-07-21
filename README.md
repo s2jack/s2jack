@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="./github.png" width = "100%" >
+<img src="./yg-2-01.jpg" width = "100%" >
 
   <h5>Looking for my new role.<h5>
    
