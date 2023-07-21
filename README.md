@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**s2jack/s2jack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="./github.png" width = "100%" >
 
-Here are some ideas to get you started:
+  <h5>Looking for my new role.<h5>
+   
+<p> I'm a highly motivated software developer with a passion for building impactful applications. And now I'm enrolled in
+ <a href="https://www.microverse.org/"> Microverse </a> is a top-tier remote software development school that emphasizes real-world projects and pair programming. <p>
+    
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I have a bachelor's degree in Computer Science.<br>
+🏃 I’m a certified "Full-stack Developer".<br>
+💯 Dream, Believe & Achieve<br>
+⚙️ My stack: HTML/CSS | JavaScript | React/Redux | Ruby/Rails | SQL | RSpec |<br>
+🟢 I am currently working on a project using javascript.<br>
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selcuk-guler/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/1stGuler) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=s2jack&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=s2jack&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=s2jack&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=s2jack&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
